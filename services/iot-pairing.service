@@ -1,0 +1,11 @@
+[Unit]
+Description=Wi-Fi Pairing Service
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /usr/local/etc/gardyn/app.py
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

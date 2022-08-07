@@ -1,0 +1,156 @@
+[
+    [
+        {
+            "schedule_hour": "00:00:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "06:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "08:30:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "17:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "20:00:00",
+            "sig": "off"
+        }
+    ],
+    [
+        {
+            "schedule_hour": "00:00:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "06:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "08:30:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "17:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "20:00:00",
+            "sig": "off"
+        }
+    ],
+    [
+        {
+            "schedule_hour": "00:00:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "06:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "08:30:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "17:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "20:00:00",
+            "sig": "off"
+        }
+    ],
+    [
+        {
+            "schedule_hour": "00:00:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "06:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "08:30:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "17:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "20:00:00",
+            "sig": "off"
+        }
+    ],
+    [
+        {
+            "schedule_hour": "00:00:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "06:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "08:30:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "17:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "20:00:00",
+            "sig": "off"
+        }
+    ],
+    [
+        {
+            "schedule_hour": "00:00:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "06:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "08:30:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "17:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "20:00:00",
+            "sig": "off"
+        }
+    ],
+    [
+        {
+            "schedule_hour": "00:00:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "06:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "08:30:00",
+            "sig": "boost"
+        },
+        {
+            "schedule_hour": "17:00:00",
+            "sig": "on"
+        },
+        {
+            "schedule_hour": "20:00:00",
+            "sig": "off"
+        }
+    ]
+]
